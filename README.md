@@ -15,3 +15,4 @@ this is an exercise of how to create and change project on github.
   rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 </chess-board>
 
+#\u2654
