@@ -16,3 +16,21 @@ this is an exercise of how to create and change project on github.
 </chess-board>
 
 #\u2654
+
+||A|B|C|D|E|F|G|H|
+|-|-|-|-|-|-|-|-|-|
+|8|r|n|b|q|k|b|n|r|
+
+
+```
+BLACK (Picochess)
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+WHITE (Player)
+```
